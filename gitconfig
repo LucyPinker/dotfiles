@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lucypinker22@gmail.com
+	name = Lucy Pinker
